@@ -173,8 +173,8 @@ aside {
     margin-top: 20px;
 }
 
-.content-artikel {
-    width: 70%;
+.content-main {
+    width: 100%;
     flex: 1;
     margin-bottom: 40px;
 }
